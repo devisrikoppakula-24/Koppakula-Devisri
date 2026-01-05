@@ -1,0 +1,9 @@
+{
+  "name": "OccasionAlly - Ultimate Event Booking Platform",
+  "description": "A comprehensive event planning platform where users can book venues, catering, cultural programs, and more. Features specialized portals for customers, venue owners, and event managers with real-time availability and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
